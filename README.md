@@ -66,39 +66,6 @@ index_0.0.5.html
 
 ---
 
-## 📌 Possíveis melhorias (Roadmap)
-
-* [ ] Integração com API da Steam
-* [ ] Sistema de login de usuários
-* [ ] Painel administrativo
-* [ ] Sistema automatizado de preços
-* [ ] Carrinho de compras
-* [ ] Deploy online (Vercel / Netlify)
-
----
-
-## 💡 Diferencial do projeto
-
-Este projeto se destaca por:
-
-* Foco em **negociação real**, não apenas listagem
-* Estrutura leve e eficiente
-* Base ideal para evolução para marketplace completo
-
----
-
-## 🤝 Contribuição
-
-Sinta-se livre para contribuir:
-
-1. Fork o projeto
-2. Crie uma branch (`feature/nova-feature`)
-3. Commit (`git commit -m 'feat: nova feature'`)
-4. Push (`git push origin feature/nova-feature`)
-5. Abra um Pull Request
-
----
-
 ## 📄 Licença
 
 Este projeto está sob a licença MIT.
